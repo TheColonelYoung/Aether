@@ -1,4 +1,4 @@
-20430666172381596
+20433982048362352
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -80458,6 +80458,13 @@ Amphenol_10114830-11108LF_1x08_P1.25mm_Horizontal
 10
 9
 TCY_connectors
+Barrel_jack_short
+
+
+0
+3
+3
+TCY_connectors
 CardEdge_2x15_Female_2.54mm
 
 
@@ -80800,6 +80807,13 @@ resistor
 0
 2
 2
+TCY_sensors
+INMP441
+
+
+0
+9
+9
 TCY_sensors
 INMP441_Breakout
 
